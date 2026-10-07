@@ -1,0 +1,20 @@
+{
+  "name": "clawd-run",
+  "version": "0.1.0",
+  "description": "Chrome's offline dino game, played by Clawd above the prompt while Claude works",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Tomás Schmieder",
+    "url": "https://github.com/tomas-schmieder"
+  },
+  "homepage": "https://github.com/tomas-schmieder/clawd-run",
+  "repository": "https://github.com/tomas-schmieder/clawd-run",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "game",
+    "dino",
+    "clawd",
+    "mod",
+    "terminal"
+  ]
+}

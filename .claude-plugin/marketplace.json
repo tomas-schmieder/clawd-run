@@ -1,0 +1,17 @@
+{
+  "name": "clawd-mods",
+  "owner": {
+    "name": "Tomás Schmieder",
+    "url": "https://github.com/tomas-schmieder"
+  },
+  "metadata": {
+    "description": "Clawd Run: Chrome's dino game, played by Clawd above the Claude Code prompt while Claude works"
+  },
+  "plugins": [
+    {
+      "name": "clawd-run",
+      "source": "./",
+      "description": "Chrome's offline dino game, played by Clawd above the prompt while Claude works"
+    }
+  ]
+}
